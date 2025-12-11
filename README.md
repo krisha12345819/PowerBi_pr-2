@@ -85,7 +85,7 @@ These Excel files were imported into **Power BI using Power Query**, cleaned, an
 ---
 
 ## 🧩 Power BI Model View (Star Schema)
-![Model View](ModelView.png)
+![Model View](Modelview.png)
 
 ---
 
