@@ -167,4 +167,3 @@ A **Matrix visual** was used to validate relationship flow:
 ### ✅ Author
 **Krisha Anghan – Data Modeling Team**
 
-> “Quality is our Motto.”
