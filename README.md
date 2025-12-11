@@ -84,6 +84,12 @@ These Excel files were imported into **Power BI using Power Query**, cleaned, an
 
 ---
 
+## 🧩 Power BI Model View (Star Schema)
+![Model View](Modelview.png)
+
+---
+
+
 ## 🔗 Relationships Created
 
 | From Table      | To Table         | Key Mapping                    | Cardinality |
@@ -124,6 +130,11 @@ These Excel files were imported into **Power BI using Power Query**, cleaned, an
 - **Date_Dim:** Year → Quarter → Month → Date  
 - **Region_Dim:** Country → State → City  
 - **Product_Dim:** Category → Subcategory → ProductName  
+
+---
+
+## 📊 Report View (Matrix Output)
+![Report View](Reportview.png)
 
 ---
 
