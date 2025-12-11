@@ -153,10 +153,6 @@ A **Matrix visual** was used to validate relationship flow:
   - Verification approach
   - Modeling decisions
 
----
-
-## 📅 Deadline
-**December 10, 2025 (EOD)**
 
 ---
 
@@ -169,6 +165,6 @@ A **Matrix visual** was used to validate relationship flow:
 ---
 
 ### ✅ Author
-**BI Intern – Data Modeling Team**
+**Krisha Anghan – Data Modeling Team**
 
 > “Quality is our Motto.”
