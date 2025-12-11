@@ -4,7 +4,7 @@
 This project is part of an internal Power BI assignment focused on **Data Modeling**, **table relationships**, and **schema design**.  
 The goal is to build a **well-structured normalized Star Schema** in Power BI using multiple fact and dimension tables.
 
-> ⚠️ No calculated columns, DAX measures, or charts are used.  
+> ⚠️ No calculated columns, DAX measures, or charts are used. 
 > ✅ Only **Power Query**, **Model View**, and a **Matrix visual** are used for verification.
 
 ---
