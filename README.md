@@ -25,12 +25,12 @@ To demonstrate understanding of:
 
 All source data files used in this project are provided below:
 
-- 📄 [Sales_Fact.xlsx](./data/Sales_Fact.xlsx)  
-- 📄 [Customer_Dim.xlsx](./data/Customer_Dim.xlsx)  
-- 📄 [Product_Dim.xlsx](./data/Product_Dim.xlsx)  
-- 📄 [Region_Dim.xlsx](./data/Region_Dim.xlsx)  
-- 📄 [Date_Dim.xlsx](./data/Date_Dim.xlsx)  
-- 📄 [Returns_Fact.xlsx](./data/Returns_Fact.xlsx)
+- 📄 [Sales_Fact.xlsx](./Sales_Fact.xlsx)  
+- 📄 [Customer_Dim.xlsx](./Customer_Dim.xlsx)  
+- 📄 [Product_Dim.xlsx](./Product_Dim.xlsx)  
+- 📄 [Region_Dim.xlsx](./Region_Dim.xlsx)  
+- 📄 [Date_Dim.xlsx](./Date_Dim.xlsx)  
+- 📄 [Returns_Fact.xlsx](./Returns_Fact.xlsx)
 
 These Excel files were imported into **Power BI using Power Query**, cleaned, and then loaded into the data model for relationship building and schema design.
 
