@@ -85,7 +85,7 @@ These Excel files were imported into **Power BI using Power Query**, cleaned, an
 ---
 
 ## 🧩 Power BI Model View (Star Schema)
-![Model View](Modelview.png)
+![Model View](ModelView.png)
 
 ---
 
@@ -134,7 +134,7 @@ These Excel files were imported into **Power BI using Power Query**, cleaned, an
 ---
 
 ## 📊 Report View (Matrix Output)
-![Report View](Reportview.png)
+![Report View](ReportView.png)
 
 ---
 
